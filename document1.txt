@@ -5,8 +5,16 @@ def partition(l, r, nums):
         if nums[i] <= pivot:
             # Swapping values smaller than the pivot to the front
             nums[i], nums[ptr] = nums[ptr], nums[i]
-            ptr += 1
-
+            ptr += 1# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.
+ 
 
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
@@ -17,12 +25,20 @@ def quicksort(l, r, nums):
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
- 
+ # With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.# With quicksort() function, we will be utilizing the above code to obtain the pointer
+# at which the left values are all smaller than the number at pointer index and vice versa
+# for the right values.
 def Hello:
  print("안녕하세요")
  print(''Ni hao")
  print("Gonbanwa")
-
+ 
  
 
  
